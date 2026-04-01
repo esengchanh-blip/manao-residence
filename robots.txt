@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manao-residence.com/sitemap.xml
